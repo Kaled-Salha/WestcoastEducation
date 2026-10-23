@@ -1,0 +1,10 @@
+[
+  {
+    "CourseNumber": "101",
+    "CourseName": "C#",
+    "DurationInWeeks": 4,
+    "StartDate": "2026-11-01T00:00:00",
+    "EndDate": "2026-11-29T00:00:00",
+    "CourseType": 0
+  }
+]
